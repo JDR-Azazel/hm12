@@ -229,4 +229,4 @@
   229  git checkout main 
   230  git status
   231  git merge feature
-  232  history > history.txt && gir add . && git commit -m "addet history" && git push origin main
+  232  history > history.txt && git add . && git commit -m "addet history" && git push origin main
